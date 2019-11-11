@@ -20,7 +20,7 @@ virtualenv env
 
 cd env
 
-./Scripts/activate
+/Scripts/activate
 
 pip install -r requirements.txt
 
